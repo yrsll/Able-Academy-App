@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Able Movie API</string>
+    <string name="movie_id">Movie ID: </string>
+</resources>
